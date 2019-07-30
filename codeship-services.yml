@@ -3,4 +3,4 @@ codeship_example:
     image: codeship_example
     dockerfile: Dockerfile
   environment:
-    EXAMPLE_ENV_VAR: example-var
+    EXAMPLE_ENV_VAR:  example-var
