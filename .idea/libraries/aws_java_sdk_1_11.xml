@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="aws-java-sdk-1.11">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Downloads/aws-java-sdk-1.11.600" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$USER_HOME$/Downloads/aws-java-sdk-1.11.600/documentation" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://$USER_HOME$/Downloads/aws-java-sdk-1.11.600/kakaka/src/AwsConsoleApp" />
+      <root url="file://$USER_HOME$/Downloads/aws-java-sdk-1.11.600/kakaka/src/main/java" />
+      <root url="file://$USER_HOME$/Downloads/aws-java-sdk-1.11.600/samples/AmazonDynamoDB" />
+      <root url="file://$USER_HOME$/Downloads/aws-java-sdk-1.11.600/samples/AmazonDynamoDBDocumentAPI/quick-start" />
+      <root url="file://$USER_HOME$/Downloads/aws-java-sdk-1.11.600/samples/AmazonEC2SpotInstances-Advanced" />
+      <root url="file://$USER_HOME$/Downloads/aws-java-sdk-1.11.600/samples/AmazonEC2SpotInstances-GettingStarted" />
+      <root url="file://$USER_HOME$/Downloads/aws-java-sdk-1.11.600/samples/AmazonKinesis" />
+      <root url="file://$USER_HOME$/Downloads/aws-java-sdk-1.11.600/samples/AmazonKinesisFirehose" />
+      <root url="file://$USER_HOME$/Downloads/aws-java-sdk-1.11.600/samples/AmazonS3" />
+      <root url="file://$USER_HOME$/Downloads/aws-java-sdk-1.11.600/samples/AmazonS3TransferProgress" />
+      <root url="file://$USER_HOME$/Downloads/aws-java-sdk-1.11.600/samples/AmazonSimpleEmailService" />
+      <root url="file://$USER_HOME$/Downloads/aws-java-sdk-1.11.600/samples/AmazonSimpleQueueService" />
+      <root url="file://$USER_HOME$/Downloads/aws-java-sdk-1.11.600/samples/AwsCloudFormation" />
+      <root url="file://$USER_HOME$/Downloads/aws-java-sdk-1.11.600/samples/AwsConsoleApp" />
+    </SOURCES>
+  </library>
+</component>
